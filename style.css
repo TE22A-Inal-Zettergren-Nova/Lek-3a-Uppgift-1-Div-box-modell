@@ -1,0 +1,21 @@
+.rubrik{
+    background-color: yellow;
+    color: blue;
+    border: 2px solid black;
+    text-align: center;
+    font-family: "Roboto Mono";
+    margin: 20px;
+}
+
+.artikel{
+    background-color: lightgray;
+    border: 2px solid black;
+    margin: 20px;
+    flex-direction: row;
+    
+}
+
+h2,p{
+    text-align: center;
+}
+
