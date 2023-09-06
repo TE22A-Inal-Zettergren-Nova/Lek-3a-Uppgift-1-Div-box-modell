@@ -16,7 +16,7 @@
     
 }
 
-h2,p{
+.låda,h2,p{
     text-align: center;
 }
 
@@ -24,6 +24,3 @@ body{
     background-image: url("./img/showcase.jpg");
 }
 
-.låda{
-    text-align: center;
-}
