@@ -4,7 +4,8 @@
     border: 2px solid black;
     text-align: center;
     font-family: "Roboto Mono";
-    margin: 20px;
+    margin-top: 15px;
+    margin-bottom: 20px;
 }
 
 .artikel{
@@ -19,3 +20,10 @@ h2,p{
     text-align: center;
 }
 
+body{
+    background-image: url("./img/showcase.jpg");
+}
+
+.låda{
+    text-align: center;
+}
